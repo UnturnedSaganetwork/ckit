@@ -17,26 +17,15 @@ perm:
 örnek:
 
     <Group>
-
       <Id>polis</Id>
-
       <DisplayName>polis</DisplayName>
-
       <Prefix>[polis]</Prefix>
-
       <Suffix />
-
       <Color>F7FFFF</Color>
-
       <Members />
-
       <Priority>100</Priority>
-
       <Permissions>
-
         <Permission Cooldown="0">essentials.kit.polis</Permission>
-
       </Permissions>
-
     </Group>
 
