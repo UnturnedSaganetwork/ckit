@@ -3,6 +3,8 @@
 
 örnek: /ckit polis 360 false 0 
 
+/dkit isim kit siler
+
 /ckit (isim) (süre) false (miktar) oyun parasi ile parali kit yapma 
 
 /ckit (isim) (süre) ture 0 insan öldüğü zaman direk bir daha kit çekebilir 
