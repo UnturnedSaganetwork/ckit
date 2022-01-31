@@ -9,13 +9,21 @@
 
 /ckit (isim) (süre) ture 0 insan öldüğü zaman direk bir daha kit çekebilir 
 
-araç kiti 
-/ckit apc süre false 0
-/editkit apc additem vahicle id
+Araç kiit  ilk önce normal bir şekilde kiti oluşturuyoruz 
 
-xp kiti
-/ckit isim süre false 0
-/editkit isim additem xp isim
+/ckit jet 5000 false 0 
+
+sonra
+
+/editkit jet additem vehicle 140
+
+
+Xp kiti gene normal bir şekilde kiti oluşturuyoruz
+
+/ckit maaş 360 false 0
+
+/editkit maaş additem xp (miktar)
+
 
 perm:
 
