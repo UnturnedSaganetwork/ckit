@@ -9,6 +9,13 @@
 
 /ckit (isim) (süre) ture 0 insan öldüğü zaman direk bir daha kit çekebilir 
 
+araç kiti 
+/ckit apc süre false 0
+/editkit apc additem vahicle id
+
+xp kiti
+/ckit isim süre false 0
+/editkit isim additem xp isim
 
 perm:
 
